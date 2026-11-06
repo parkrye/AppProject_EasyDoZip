@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-최신 버전 0.2.0 — [Releases](https://github.com/parkrye/AppProject_EasyDoZip/releases)에서 `EasyDoZip-<버전>.apk`를 받아 설치. Android 8.0 이상.
+최신 버전 0.2.1 — [Releases](https://github.com/parkrye/AppProject_EasyDoZip/releases)에서 `EasyDoZip-<버전>.apk`를 받아 설치. Android 8.0 이상.
 
 - 처음 설치 시 "출처를 알 수 없는 앱" 설치 허용 필요. Play 프로텍트가 검사 화면을 띄울 수 있음
 - 업데이트는 새 APK를 같은 방식으로 덮어 설치. 추가한 폴더 · 설정 유지. 앱 안 `설정 → 앱 정보 → 새 버전 받기`로 Releases 페이지를 열 수 있음
